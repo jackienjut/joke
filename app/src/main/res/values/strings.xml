@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Joke</string>
+    <string name="loadText">Joke</string>
+    <string name="addMore">加载更多</string>
+</resources>
